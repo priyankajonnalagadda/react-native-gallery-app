@@ -57,6 +57,6 @@ Implemented global state management using Zustand
 Built reusable and modular components
 Managed navigation flow between authentication and app screens
 Structured project for scalability
-👩‍💻 Author
 
+👩‍💻 Author
 Priyanka Jonnalagadda
